@@ -1,0 +1,38 @@
+# > LineTV
+host,d3c7rimkq79yfu.cloudfront.net,LineTV
+host-suffix,d3c7rimkq79yfu.cloudfront.net,LineTV
+host-suffix,linetv.tw,LineTV
+host-suffix,line-scdn.net,LineTV
+host-suffix,chocotv.com.tw,LineTV
+host-suffix,line-cdn.net,LineTV
+host-suffix,line-scdn.net,LineTV
+# > 动画疯
+user-agent,Anime*,LineTV
+host,gamer-cds.cdn.hinet.net,LineTV
+host,gamer2-cds.cdn.hinet.net,LineTV
+host-suffix,bahamut.com.tw,LineTV
+host-suffix,gamer.com.tw,LineTV
+host-suffix,hinet.net,LineTV
+# > Friday Video
+host-suffix,friday.tw,LineTV
+host-suffix,fetnet.net,LineTV
+# > myVideo
+USER-AGENT,myVideo*,LineTV
+DOMAIN-SUFFIX,myvideo.net.tw,LineTV
+DOMAIN-SUFFIX,catch.net.tw,LineTV
+# > LiTV
+DOMAIN-SUFFIX,litv.tv,LineTV
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,LineTV
+# > KKTV
+USER-AGENT,KKTV*,LineTV
+USER-AGENT,com.kktv.ios.kktv*,LineTV
+DOMAIN-SUFFIX,kktv.com.tw,LineTV
+DOMAIN-SUFFIX,kktv.me,LineTV
+DOMAIN,kktv-theater.kk.stream,LineTV
+# > CATCHPLAY+
+USER-AGENT,CATCHPLAY*,LineTV
+DOMAIN-SUFFIX,catchplay.com,LineTV
+DOMAIN,asiaplay-origin.s3.amazonaws.com,LineTV
+DOMAIN,tra-ww000-cp.akamaized.net,LineTV
+DOMAIN,ols-ww000-cp.akamaized.net,LineTV
+DOMAIN,ols-ww100-cp.akamaized.net,LineTV
